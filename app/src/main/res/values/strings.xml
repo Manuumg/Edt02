@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Edt02</string>
+    <string name="textTitle">Pedals</string>
+    <string name="subText">Your Way of Travelling</string>
+    <string name="textDashboard">Hello there, Wellcome back!</string>
+    <string name="textSignup">Hello there!</string>
+    <string name="textSign">Sign in to continue</string>
+    <string name="textToStart">Sign up to start.</string>
+</resources>
